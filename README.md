@@ -40,7 +40,7 @@ This repository contains my solution for **DA5401 — Assignment 2**, where we a
 ## 📊 Results
 | Model                  | Accuracy | F1-Score |
 |-------------------------|----------|----------|
-| Logistic Regression (Baseline) | ~99.8%   | ~0.9988 |
+| Logistic Regression (Baseline) | 100%   | 1 |
 | Logistic Regression (PCA)      | ~99.7%   | ~0.9988 |
 
 > ⚖️ **Insight:** PCA simplified the dataset (fewer dimensions, less redundancy) without significantly hurting classification performance. Logistic Regression proved to be a solid linear baseline for evaluation.  
