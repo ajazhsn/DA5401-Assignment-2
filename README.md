@@ -41,7 +41,7 @@ This repository contains my solution for **DA5401 — Assignment 2**, where we a
 | Model                  | Accuracy | F1-Score |
 |-------------------------|----------|----------|
 | Logistic Regression (Baseline) | 100%   | 1 |
-| Logistic Regression (PCA)      | ~99.7%   | ~0.9988 |
+| Logistic Regression (PCA)      | ~99.8%   | ~0.9988 |
 
 > ⚖️ **Insight:** PCA simplified the dataset (fewer dimensions, less redundancy) without significantly hurting classification performance. Logistic Regression proved to be a solid linear baseline for evaluation.  
 
@@ -54,10 +54,4 @@ This repository contains my solution for **DA5401 — Assignment 2**, where we a
 - Matplotlib  
 
 ---
-
-## 📌 How to Run
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/your-username/mushroom-pca-assignment.git
-   cd mushroom-pca-assignment
 
